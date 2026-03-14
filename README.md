@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi I'am Hamit Güneş
 
-<!--
-**Hamit3306/Hamit3306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Ankara Science University with an interest in cybersecurity, artificial intelligence and software development.
 
-Here are some ideas to get you started:
+## Education
+Ankara Science University  
+Software Engineering (2022 – Present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Leadership and Activities
+President, Development Student Club  
+Ankara Science University
+
+Leading software and engineering related student projects and coordinating team activities. Currently preparing engineering projects for Teknofest 2026.
+
+Social Media Head, Google Developer Student Club
+
+Responsible for managing digital promotion strategies and increasing the visibility of community events.
+
+## Experience
+Engineering Intern – MG Engineering
+
+Gained experience in engineering design processes and technical documentation.  
+Worked with AutoCAD to prepare technical drawings and supported engineering teams during project development.
+
+## Technical Skills
+Programming: Python, Java, C++  
+Web Development: HTML, CSS  
+Tools: AutoCAD, Git
+
+## Projects and Competitions
+Teknofest 2026 Project Team Captain  
+Leading a student engineering team developing innovative engineering and software projects.
+
+TÜBİTAK Project Competition  
+Participated in a national innovation project competition.
+
+## Contact
+Email: hamit.guuness@gmail.com  
+LinkedIn: https://www.linkedin.com/in/hamit-g%C3%BCne%C5%9F-96ab52263/
